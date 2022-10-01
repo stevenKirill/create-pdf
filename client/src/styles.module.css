@@ -1,0 +1,21 @@
+.wrapper {
+    padding: 10px;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    border: 1px solid 'black';
+}
+
+.input {
+    padding: 5px;
+    font-size: 15px;
+    margin-left: 10px;
+}
+
+.button {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 40%;
+    margin-top: 15px;
+}
